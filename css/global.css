@@ -16,24 +16,24 @@
     }
    
   } 
-  @media screen and (min-width:1400) {
+  @media screen and (max-width:1400px) {
 
-    body{
-        font-size: 125%;
+    html{
+        font-size: 110%;
     }
  
 }
-@media screen and (min-width:600) {
+@media screen and (max-width:600px) {
 
-    body{
+    html{
         font-size: 80%;
     }
  
 }
-@media screen and (min-width:1400) {
+@media screen and (max-width:1400px) {
 
-    body{
-        font-size: 50%;
+    html{
+        font-size: 60%;
     }
  
 }
